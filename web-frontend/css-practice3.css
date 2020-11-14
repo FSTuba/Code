@@ -1,0 +1,35 @@
+.sidenav {
+  background-color: #777777; /*for test*/
+  float: left;
+  width: 25%;
+}
+
+.content {
+  background-color: #666666; /*for test*/
+  width: 75%;
+  float: left;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.toolbar{
+    padding: 5px 0px 5px 0px;
+}
+
+.item-display{
+    background-color: #888888;
+}
+
+.item-block{
+    background-color: lightblue;
+    position: relative;
+    float: left;
+    width: 25%;
+}
+
+.item-block image{
+    
+}

@@ -1,0 +1,63 @@
+body {
+  border: solid black 2px;
+
+}
+
+.header {
+  background-color: blue;
+  padding: 0px 0px 20px;
+}
+
+.title {
+  background-color: #ffaaff;
+  padding: 30px;
+
+}
+
+.club {
+    background-color: #AAAAFF;
+    float: left;
+    width: 20%;
+    height:400px;
+}
+
+.mid {
+    background-color: #FEA9A9;
+    float: left;
+    width: 40%;
+    height:400px;
+    overflow: scroll;
+}
+.yahoo {
+    background-color: #FEA9A9;
+}
+
+.rolling {
+    background-color: red;
+    position: relative;
+    top: 40px;
+    overflow: auto;
+    border: solid black 2px;
+    padding: 5px;
+    height: 150px;
+    margin-bottom: 40px;
+}
+
+.ads {
+    background-color: lightgreen;
+    float: left;
+    width: 20%;
+    height:400px;
+}
+
+.chat {
+    background-color: #A9FEFE;
+    float: left;
+    width: 20%;
+    height:400px;
+}
+
+/*hide scroll bar*/
+::-webkit-scrollbar {
+    display: none;
+}

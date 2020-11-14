@@ -1,0 +1,26 @@
+body {
+    font-family: Microsoft JhengHei;
+}
+
+
+
+.color-custom{
+    background-color: rgba(255, 73, 73, 0.62);
+}
+
+.text{
+    height: 100vh;
+}
+
+.title{
+    color: #FA8072;
+    font-weight: bold;
+}
+
+#banner{
+    background-image: url(../img/banner.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 300px;
+    margin-top: 3.5rem;
+}
